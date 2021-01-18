@@ -36,7 +36,7 @@ p {
 
 .tm-page-container {
   max-width: 600px;
-  width: 100%;  
+  width: 100%;
 }
 
 .tm-section {
@@ -44,7 +44,7 @@ p {
   position: relative;
 }
 
-.tm-content-container {      
+.tm-content-container {
   border-radius: 20px;
   background-color: white;
 }
@@ -86,7 +86,7 @@ p {
   background-color: #0299CC;
 }
 
-.tm-content {  
+.tm-content {
   padding: 55px;
 }
 
@@ -107,7 +107,7 @@ p {
 
 .tm-img {
   border-top-left-radius: 20px;
-  border-top-right-radius: 20px;  
+  border-top-right-radius: 20px;
 }
 
 footer {
@@ -122,14 +122,14 @@ footer {
   color: #9A9B9C;
 }
 
-/* 
+/*
   Gallery Item Hover Effect
   https://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/
 */
 
 /* Common style */
 .tm-gallery-item figure {
-	position: relative;	
+	position: relative;
 	overflow: hidden;
 	margin-bottom: 0;
 	background: #3085a3;
@@ -240,7 +240,7 @@ figure.effect-bubba figcaption::after {
 }
 
 figure.effect-bubba h2 {
-	font-size: 1.5rem;	
+	font-size: 1.5rem;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,-5px,0);
@@ -300,7 +300,7 @@ figcaption {
 .tm-img-overlay-wrap {
 	position: relative;
 	min-height: 280px;
-	background-image: url(../img/contact.jpg);
+	background-image: url(../img/blog.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-top-left-radius: 20px;
