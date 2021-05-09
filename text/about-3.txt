@@ -1,0 +1,3 @@
+In terms of actual systems, I use a jury-rigged, telemetry-stripped version of Windows 10, as well as a laptop running Garuda Linux, which is built off of Arch Linux.
+
+Vestibulum imperdiet hendrerit nibh. Integer sit amet lacus et nunc auctor tincidunt eu ac sapien. Ut suscipit velit eget faucibus finibus.
